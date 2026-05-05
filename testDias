@@ -1,0 +1,27 @@
+{
+  "jurisdiccion": "Argentina / Poder Judicial",
+  "anio": 2026,
+  "actualizado_al": "2026-05-05",
+  "configuracion": {
+    "sabados_inhabiles": true,
+    "domingos_inhabiles": true
+  },
+  "dias_inhabiles": [
+    {
+      "fecha": "2026-01-01",
+      "nombre": "Año Nuevo",
+      "tipo": "feriado_nacional"
+    },
+    {
+      "fecha": "2026-02-16",
+      "nombre": "Carnaval",
+      "tipo": "feriado_nacional"
+    },
+    {
+      "fecha": "2026-02-17",
+      "nombre": "Carnaval",
+      "tipo": "feriado_nacional"
+    }
+  ],
+  "rangos_inhabiles": []
+}
