@@ -1,0 +1,120 @@
+{
+  "jurisdiccion": "Argentina / Poder Judicial",
+  "anio": 2026,
+  "actualizado_al": "2026-05-05",
+  "configuracion": {
+    "sabados_inhabiles": true,
+    "domingos_inhabiles": true
+  },
+  "dias_inhabiles": [
+    {
+      "fecha": "2026-01-01",
+      "nombre": "Año Nuevo",
+      "tipo": "feriado_nacional"
+    },
+    {
+      "fecha": "2026-02-16",
+      "nombre": "Carnaval",
+      "tipo": "feriado_nacional"
+    },
+    {
+      "fecha": "2026-02-17",
+      "nombre": "Carnaval",
+      "tipo": "feriado_nacional"
+    },
+    {
+      "fecha": "2026-03-23",
+      "nombre": "Día no laborable con fines turísticos",
+      "tipo": "feriado_nacional"
+    },
+    {
+      "fecha": "2026-03-24",
+      "nombre": "Día Nacional de la Memoria por la Verdad y la Justicia",
+      "tipo": "feriado_nacional"
+    },
+    {
+      "fecha": "2026-04-02",
+      "nombre": "Día del Veterano y de los Caídos en la Guerra de Malvinas",
+      "tipo": "feriado_nacional"
+    },
+    {
+      "fecha": "2026-04-03",
+      "nombre": "Viernes Santo",
+      "tipo": "feriado_nacional"
+    },
+    {
+      "fecha": "2026-05-01",
+      "nombre": "Día del Trabajador",
+      "tipo": "feriado_nacional"
+    },
+    {
+      "fecha": "2026-05-25",
+      "nombre": "Día de la Revolución de Mayo",
+      "tipo": "feriado_nacional"
+    },
+    {
+      "fecha": "2026-06-15",
+      "nombre": "Paso a la Inmortalidad del Gral. Don Martín Miguel de Güemes",
+      "tipo": "feriado_nacional"
+    },
+    {
+      "fecha": "2026-06-20",
+      "nombre": "Paso a la Inmortalidad del General Don Manuel Belgrano",
+      "tipo": "feriado_nacional"
+    },
+    {
+      "fecha": "2026-07-09",
+      "nombre": "Día de la Independencia",
+      "tipo": "feriado_nacional"
+    },
+    {
+      "fecha": "2026-07-10",
+      "nombre": "Día no laborable con fines turísticos",
+      "tipo": "feriado_nacional"
+    },
+    {
+      "fecha": "2026-08-17",
+      "nombre": "Paso a la Inmortalidad del General José de San Martín",
+      "tipo": "feriado_nacional"
+    },
+    {
+      "fecha": "2026-10-12",
+      "nombre": "Día del Respeto a la Diversidad Cultural",
+      "tipo": "feriado_nacional"
+    },
+    {
+      "fecha": "2026-11-23",
+      "nombre": "Día de la Soberanía Nacional",
+      "tipo": "feriado_nacional"
+    },
+    {
+      "fecha": "2026-12-07",
+      "nombre": "Día no laborable con fines turísticos",
+      "tipo": "feriado_nacional"
+    },
+    {
+      "fecha": "2026-12-08",
+      "nombre": "Inmaculada Concepción de María",
+      "tipo": "feriado_nacional"
+    },
+    {
+      "fecha": "2026-12-25",
+      "nombre": "Navidad",
+      "tipo": "feriado_nacional"
+    }
+  ],
+  "rangos_inhabiles": [
+    {
+      "desde": "2026-01-02",
+      "hasta": "2026-01-31",
+      "nombre": "Feria Judicial",
+      "tipo": "feria_judicial"
+    },
+    {
+      "desde": "2026-07-20",
+      "hasta": "2026-07-31",
+      "nombre": "Feria Judicial",
+      "tipo": "feria_judicial"
+    }
+  ]
+}
